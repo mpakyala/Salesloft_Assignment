@@ -27,3 +27,6 @@
   
 ## To run tests in different environments
  - Change the `environment` property in `FrameworkConfig.properties` file. For example, if environment is set to `stage`, url is constructed as `https://stage.amazon.com`.
+
+## Additional test cases
+https://docs.google.com/document/d/1ChebO6uV0PGfZCzlEFhIRYZYgq2sBPoTbyOFHSdZ8CQ/edit?usp=sharing
